@@ -2,4 +2,3 @@
 // https://github.com/manna-harbour/miryoku
 
 #define MIRYOKU_ALPHAS=QWERTY
-#define MIRYOKU_NAV_INVERTEDT
